@@ -56,3 +56,12 @@
  - Web development basics
    - HTTP & HTTPS
    - web app architecture
+- Other technologies
+  - JPA
+  - Hibernate
+  - Lombok
+  - Tomcat
+  - Spring Boot
+  - Spring Initializr
+  - Spring Data Rest
+  - Swagger
