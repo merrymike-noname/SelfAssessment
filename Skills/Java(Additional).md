@@ -1,0 +1,67 @@
+- Java core
+  - 🔬 JVM
+  - 🔬 code structure
+  - 🔬 packages
+  - 🔬 equals()
+  - 🔬 hashCode()
+  - 🔬 upcasting/downcasting
+  - 🔬 generics
+  - 🔬 wildcards
+  - 🔬 annotations
+  - 🔬 work with files
+  - 🔬 try with resources
+  - 🚀 Comparable
+  - 🚀 Comparator
+  - 🔬 Iterator
+  - 🔬 stream API
+  - 🎓 Swing
+- Multithreading
+  - 🔬 Future
+  - 🔬 synchronization
+  - 🔬 producer-consumer
+  - 🔬 CountDownLatch
+  - 🔬 ReentrantLock
+  - 🔬 Semaphore
+  - 🔬 deadlock
+- Spring Core
+  - application context
+  - beans
+  - inversion of control
+  - dependency injection
+  - XML configuration
+  - annotations configuration
+  - code configuration
+  - spring annotations
+    - Autowired
+    - Bean
+    - Component
+    - ComponentScan
+    - Configuration
+    - PostConstruct
+    - PreDestroy
+    - Qualifier
+    - Scope
+    - Value
+- Spring MVC
+  - controller
+  - CRUD
+  - form validation
+  - model
+  - view
+  - passing request parameters
+- Databases 
+  - SQL
+  - JDBC API
+  - JDBC template
+ - Web development basics
+   - HTTP & HTTPS
+   - web app architecture
+- Other technologies
+  - JPA
+  - Hibernate
+  - Lombok
+  - Tomcat
+  - Spring Boot
+  - Spring Initializr
+  - Spring Data Rest
+  - Swagger
