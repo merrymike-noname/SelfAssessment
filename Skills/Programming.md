@@ -5,7 +5,7 @@
   - identifier: 🔬 Researched
   - variable: 🔬 Researched
   - constant: 🔬 Researched
-  - scalar: 👂 Heard
+  - scalar: 🙋 Explained
   - literal: 🔬 Researched
   - expression: 🔬 Researched
   - heap: 🔬 Researched
@@ -13,7 +13,7 @@
   - procedure: 🔬 Researched
   - method: 🔬 Researched
   - class: 🚀 Constructed
-  - prototype: 👂 Heard
+  - prototype: 🎓 Known
   - event: 🔬 Researched
   - type: 🔬 Researched
   - primitive types: 🔬 Researched
@@ -27,13 +27,13 @@
   - regular expression: 🚀 Constructed
   - interface: 🚀 Constructed
   - contract: 🚀 Constructed
-  - module: 🎓 Known
+  - module: 🙋 Explained
   - call stack: 🔬 Researched
 - Functions
   - signature: 🔬 Researched
   - argument: 🔬 Researched
   - parameter: 🔬 Researched
-  - pure function: 🎓 Known
+  - pure function: 🙋 Explained
   - lambda expression: 🚀 Constructed
   - side effects: 👂 Heard
   - closure: 👂 Heard
@@ -55,28 +55,28 @@
 - Data structures
   - array: 🔬 Researched
   - structure: 🔬 Researched
-  - record: 🎓 Known
+  - record: 🙋 Explained
   - enum: 🚀 Constructed
   - instance: 🚀 Constructed
   - object: 🚀 Constructed
   - class: 🚀 Constructed
-  - collection: 🔬 Researched
+  - collection: 🚀 Constructed
   - set: 🔬 Researched
   - hash table: 🔬 Researched
-  - linked list: 🔬 Researched
+  - linked list: 🚀 Constructed
   - doubly list: 🔬 Researched
   - unrolled list: 🔬 Researched
   - circular list: 🔬 Researched
-  - queue: 🔬 Researched
+  - queue: 🚀 Constructed
   - stack: 🔬 Researched
   - deque: 🔬 Researched
-  - tree: 🔬 Researched
-  - graph: 🔬 Researched
+  - tree: 🚀 Constructed
+  - graph: 🚀 Constructed
   - iterator: 🔬 Researched
   - mutable state: 🔬 Researched
   - immutable state: 🔬 Researched
   - serialization: 🔬 Researched
-  - string parsing: 🔬 Researched
+  - string parsing: 🚀 Constructed
 - Process & style
   - compiler: 🔬 Researched
   - transpiler: 👂 Heard
@@ -89,16 +89,16 @@
   - antipatterns: 🔬 Researched
   - paradigm: 🔬 Researched
   - algorithm: 🔬 Researched
-  - magic numbers: 🎓 Known
-  - hardcode: 🎓 Known
-  - complexity: 🎓 Known
-  - decomposition: 🎓 Known
-  - spaghetti: 🎓 Known
-  - silver bullet: 🎓 Known
-  - not invented here: 🎓 Known
-  - dead code: 🎓 Known
-  - unreachable code: 🎓 Known
-  - duplicate code: 🎓 Known
+  - magic numbers: 🙋 Explained
+  - hardcode: 🙋 Explained
+  - complexity: 🙋 Explained
+  - decomposition: 🙋 Explained
+  - spaghetti: 🙋 Explained
+  - silver bullet: 🙋 Explained
+  - not invented here: 🙋 Explained
+  - dead code: 🙋 Explained
+  - unreachable code: 🙋 Explained
+  - duplicate code: 🙋 Explained
   - exception: 🔬 Researched
   - return early: 🔬 Researched
   - unittest: 🔬 Researched
