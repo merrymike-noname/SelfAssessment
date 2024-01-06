@@ -1,31 +1,31 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 Known
-  - Imperative programming: 🎓 Known
-  - Structured programming: 🎓 Known
-  - Non-structured programming: 🎓 Known
-  - Functional programming: 🎓 Known
-  - Prototype-based programming: 🎓 Known
+  - Procedural programming: 🙋 Explained
+  - Imperative programming: 🙋 Explained
+  - Structured programming: 🙋 Explained
+  - Non-structured programming: 🙋 Explained
+  - Functional programming: 🙋 Explained
+  - Prototype-based programming: 🙋 Explained
   - Object-oriented programming: 🔬 Researched
   - Object-based programming: 🔬 Researched
-  - Generic programming: 🎓 Known
-  - Concurrent computing: 🎓 Known
-  - Asyncronous programming: 🎓 Known
-  - Parallel programming: 👂 Heard
-  - Reactive programming: 👂 Heard
-  - FRP (Functional-reactive): 👂 Heard
-  - Automata-based programming: 👂 Heard
-  - Domain-specific languages: 👂 Heard
-  - Multi-paradigm programming: 🎓 Known
-  - Metaprogramming: 🎓 Known
-  - Actor model: 👂 Heard
+  - Generic programming: 🙋 Explained
+  - Concurrent computing: 🙋 Explained
+  - Asyncronous programming: 🙋 Explained
+  - Parallel programming: 🎓 Known
+  - Reactive programming: 🎓 Known
+  - FRP (Functional-reactive): 🎓 Known
+  - Automata-based programming: 🎓 Known
+  - Domain-specific languages: 🎓 Known
+  - Multi-paradigm programming: 🙋 Explained
+  - Metaprogramming: 🙋 Explained
+  - Actor model: 🎓 Known
 - OOP basics
   - Constructor: 🚀 Constructed
   - new: 🚀 Constructed
   - Static method: 🚀 Constructed
   - Method: 🚀 Constructed
-  - Async method: 🎓 Known
+  - Async method: 🙋 Explained
   - Getters, Setters: 🚀 Constructed
   - Public fields: 🚀 Constructed
   - Private fields: 🚀 Constructed
@@ -45,22 +45,22 @@
   - Singleton: 🚀 Constructed
   - Factory Method: 🚀 Constructed
   - Abstract Factory: 🚀 Constructed
-  - Adapter: 👂 Heard
-  - Observer: 👂 Heard
-  - Strategy: 👂 Heard
-  - Facade: 👂 Heard
-  - Proxy: 👂 Heard
-  - Chain of Responsibility: 👂 Heard
-  - Command: 🖐️ Used
-  - Iterator: 👂 Heard
-  - State: 👂 Heard
-  - Bridge: 👂 Heard
-  - Builder: 👂 Heard
-  - Prototype: 👂 Heard
-  - Composite: 👂 Heard
-  - Decorator: 👂 Heard
-  - Flyweight: 👂 Heard
-  - Mediator: 👂 Heard
-  - Memento: 👂 Heard
-  - Template Method: 👂 Heard
-  - Visitor: 👂 Heard
+  - Adapter: 🎓 Known
+  - Observer: 🎓 Known
+  - Strategy: 🎓 Known
+  - Facade: 🎓 Known
+  - Proxy: 🎓 Known
+  - Chain of Responsibility: 🎓 Known
+  - Command: 🎓 Known
+  - Iterator: 🎓 Known
+  - State: 🎓 Known
+  - Bridge: 🎓 Known
+  - Builder: 🎓 Known
+  - Prototype: 🎓 Known
+  - Composite: 🎓 Known
+  - Decorator: 🎓 Known
+  - Flyweight: 🎓 Known
+  - Mediator: 🎓 Known
+  - Memento: 🎓 Known
+  - Template Method: 🎓 Known
+  - Visitor: 🎓 Known

@@ -24,44 +24,44 @@
   - Semaphore: 🔬 Researched
   - Deadlock: 🔬 Researched
 - Spring Core
-  - application context
-  - beans
-  - inversion of control
-  - dependency injection
-  - XML configuration
-  - annotations configuration
-  - code configuration
+  - application context: 🖐️ Used
+  - beans: 📢 Talked
+  - inversion of control: 📢 Talked
+  - dependency injection: 📢 Talked
+  - XML configuration: 🖐️ Used
+  - annotations configuration: 🖐️ Used
+  - code configuration: 🖐️ Used
   - spring annotations
-    - Autowired
-    - Bean
-    - Component
-    - ComponentScan
-    - Configuration
-    - PostConstruct
-    - PreDestroy
-    - Qualifier
-    - Scope
-    - Value
+    - Autowired: 🖐️ Used
+    - Bean: 🖐️ Used
+    - Component: 🖐️ Used
+    - ComponentScan: 🖐️ Used
+    - Configuration: 🖐️ Used
+    - PostConstruct: 🖐️ Used
+    - PreDestroy: 🖐️ Used
+    - Qualifier: 🖐️ Used
+    - Scope: 🖐️ Used
+    - Value: 🖐️ Used
 - Spring MVC
-  - controller
-  - CRUD
-  - form validation
-  - model
-  - view
-  - passing request parameters
+  - controller: 🚀 Constructed
+  - CRUD: 🚀 Constructed
+  - form validation: 🚀 Constructed
+  - model: 🚀 Constructed
+  - view: 🚀 Constructed
+  - passing request parameters: 🚀 Constructed
 - Databases 
-  - SQL
-  - JDBC API
-  - JDBC template
+  - SQL: 🖐️ Used
+  - JDBC API: 🖐️ Used
+  - JDBC template: 🖐️ Used
  - Web development basics
-   - HTTP & HTTPS
-   - web app architecture
+   - HTTP & HTTPS: 🖐️ Used
+   - web app architecture: 🔬 Researched
 - Other technologies
-  - JPA
-  - Hibernate
-  - Lombok
-  - Tomcat
-  - Spring Boot
-  - Spring Initializr
-  - Spring Data Rest
-  - Swagger
+  - JPA: 📢 Talked
+  - Hibernate: 📢 Talked
+  - Lombok: 📢 Talked
+  - Tomcat: 📢 Talked
+  - Spring Boot: 📢 Talked
+  - Spring Initializr: 📢 Talked
+  - Spring Data Rest: 📢 Talked
+  - Swagger: 📢 Talked
