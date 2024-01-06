@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - 🔬 value
-  - 🔬 identifier
-  - 🔬 variable
-  - 🔬 constant
-  - 👂 scalar
-  - 🔬 literal
-  - 🔬 expression
-  - 🔬 heap
-  - 🔬 function
-  - 🔬 procedure
-  - 🔬 method
-  - 🚀 class
-  - 👂 prototype
-  - 🔬 event
-  - 🔬 type
-  - 🔬 primitive types
-  - 🔬 reference types
-  - 🔬 flag
-  - 🔬 lexical scope
-  - 🔬 code block
-  - 🚀 conditions
-  - 🚀 loops
-  - 🔬 assignment
-  - 🚀 regular expression
-  - 🚀 interface
-  - 🚀 contract
-  - 🎓 module
-  - 🔬 call stack
+  - value: 🔬 Researched
+  - identifier: 🔬 Researched
+  - variable: 🔬 Researched
+  - constant: 🔬 Researched
+  - scalar: 👂 Heard
+  - literal: 🔬 Researched
+  - expression: 🔬 Researched
+  - heap: 🔬 Researched
+  - function: 🔬 Researched
+  - procedure: 🔬 Researched
+  - method: 🔬 Researched
+  - class: 🚀 Constructed
+  - prototype: 👂 Heard
+  - event: 🔬 Researched
+  - type: 🔬 Researched
+  - primitive types: 🔬 Researched
+  - reference types: 🔬 Researched
+  - flag: 🔬 Researched
+  - lexical scope: 🔬 Researched
+  - code block: 🔬 Researched
+  - conditions: 🚀 Constructed
+  - loops: 🚀 Constructed
+  - assignment: 🔬 Researched
+  - regular expression: 🚀 Constructed
+  - interface: 🚀 Constructed
+  - contract: 🚀 Constructed
+  - module: 🎓 Known
+  - call stack: 🔬 Researched
 - Functions
-  - 🔬 signature
-  - 🔬 argument
-  - 🔬 parameter
-  - 🎓 pure function
-  - 🚀 lambda expression
-  - 👂 side effects
-  - 👂 closure
-  - 👂 partial application
-  - 👂 curry
-  - 👂 higher order
-  - 🔬 recursion
-  - 👂 callback
-  - 👂 listener
-  - 👂 compose
-  - 👂 pipe
-  - 👂 memoize
-  - 👂 wrapper
-  - 👂 functor
-  - 👂 monad
-  - 👂 monoid
-  - 👂 generator
-  - 👂 coroutine
+  - signature: 🔬 Researched
+  - argument: 🔬 Researched
+  - parameter: 🔬 Researched
+  - pure function: 🎓 Known
+  - lambda expression: 🚀 Constructed
+  - side effects: 👂 Heard
+  - closure: 👂 Heard
+  - partial application: 👂 Heard
+  - curry: 👂 Heard
+  - higher order: 👂 Heard
+  - recursion: 🔬 Researched
+  - callback: 👂 Heard
+  - listener: 👂 Heard
+  - compose: 👂 Heard
+  - pipe: 👂 Heard
+  - memoize: 👂 Heard
+  - wrapper: 👂 Heard
+  - functor: 👂 Heard
+  - monad: 👂 Heard
+  - monoid: 👂 Heard
+  - generator: 👂 Heard
+  - coroutine: 👂 Heard
 - Data structures
-  - 🔬 array
-  - 🔬 structure
-  - 🎓 record
-  - 🚀 enum
-  - 🚀 instance
-  - 🚀 object
-  - 🚀 class
-  - 🚀 collection
-  - 🔬 set
-  - 🔬 hash table
-  - 🚀 linked list
-  - 🔬 doubly list
-  - 🔬 unrolled list
-  - 🔬 circular list
-  - 🔬 queue
-  - 🔬 stack
-  - 🔬 deque
-  - 🔬 tree
-  - 🔬 graph
-  - 🔬 iterator
-  - 🔬 mutable state
-  - 🔬 immutable state
-  - 🔬 serialization
-  - 🔬 string parsing
+  - array: 🔬 Researched
+  - structure: 🔬 Researched
+  - record: 🎓 Known
+  - enum: 🚀 Constructed
+  - instance: 🚀 Constructed
+  - object: 🚀 Constructed
+  - class: 🚀 Constructed
+  - collection: 🔬 Researched
+  - set: 🔬 Researched
+  - hash table: 🔬 Researched
+  - linked list: 🔬 Researched
+  - doubly list: 🔬 Researched
+  - unrolled list: 🔬 Researched
+  - circular list: 🔬 Researched
+  - queue: 🔬 Researched
+  - stack: 🔬 Researched
+  - deque: 🔬 Researched
+  - tree: 🔬 Researched
+  - graph: 🔬 Researched
+  - iterator: 🔬 Researched
+  - mutable state: 🔬 Researched
+  - immutable state: 🔬 Researched
+  - serialization: 🔬 Researched
+  - string parsing: 🔬 Researched
 - Process & style
-  - 🔬 compiler
-  - 👂 transpiler
-  - 🔬 linter
-  - 👂 polyfill
-  - 🔬 debugger
-  - 🔬 garbage collection
-  - 🔬 refactoring
-  - 🔬 code review
-  - 🔬 antipatterns
-  - 🔬 paradigm
-  - 🔬 algorithm
-  - 🎓 magic numbers
-  - 🎓 hardcode
-  - 🎓 complexity
-  - 🎓 decomposition
-  - 🎓 spaghetti
-  - 🎓 silver bullet
-  - 🎓 not invented here
-  - 🎓 dead code
-  - 🎓 unreachable code
-  - 🎓 duplicate code
-  - 🔬 exception
-  - 🔬 return early
-  - 🔬 unittest
-  - 🔬 git
-  - 🔬 github
+  - compiler: 🔬 Researched
+  - transpiler: 👂 Heard
+  - linter: 🔬 Researched
+  - polyfill: 👂 Heard
+  - debugger: 🔬 Researched
+  - garbage collection: 🔬 Researched
+  - refactoring: 🔬 Researched
+  - code review: 🔬 Researched
+  - antipatterns: 🔬 Researched
+  - paradigm: 🔬 Researched
+  - algorithm: 🔬 Researched
+  - magic numbers: 🎓 Known
+  - hardcode: 🎓 Known
+  - complexity: 🎓 Known
+  - decomposition: 🎓 Known
+  - spaghetti: 🎓 Known
+  - silver bullet: 🎓 Known
+  - not invented here: 🎓 Known
+  - dead code: 🎓 Known
+  - unreachable code: 🎓 Known
+  - duplicate code: 🎓 Known
+  - exception: 🔬 Researched
+  - return early: 🔬 Researched
+  - unittest: 🔬 Researched
+  - git: 🔬 Researched
+  - github: 🔬 Researched
