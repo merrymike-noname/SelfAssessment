@@ -1,28 +1,28 @@
-- Java core
-  - 🔬 JVM
-  - 🔬 code structure
-  - 🔬 packages
-  - 🔬 equals()
-  - 🔬 hashCode()
-  - 🔬 upcasting/downcasting
-  - 🔬 generics
-  - 🔬 wildcards
-  - 🔬 annotations
-  - 🔬 work with files
-  - 🔬 try with resources
-  - 🚀 Comparable
-  - 🚀 Comparator
-  - 🔬 Iterator
-  - 🔬 stream API
-  - 🎓 Swing
+- Java Core
+  - JVM: 🚀 Constructed
+  - Code Structure: 🔬 Researched
+  - Packages: 🔬 Researched
+  - equals(): 🔬 Researched
+  - hashCode(): 🔬 Researched
+  - Upcasting/Downcasting: 🔬 Researched
+  - Generics: 🔬 Researched
+  - Wildcards: 🔬 Researched
+  - Annotations: 🔬 Researched
+  - Work with Files: 🔬 Researched
+  - Try with Resources: 🔬 Researched
+  - Comparable: 🚀 Constructed
+  - Comparator: 🚀 Constructed
+  - Iterator: 🔬 Researched
+  - Stream API: 🔬 Researched
+  - Swing: 🚀 Constructed
 - Multithreading
-  - 🔬 Future
-  - 🔬 synchronization
-  - 🔬 producer-consumer
-  - 🔬 CountDownLatch
-  - 🔬 ReentrantLock
-  - 🔬 Semaphore
-  - 🔬 deadlock
+  - Future: 🔬 Researched
+  - Synchronization: 🔬 Researched
+  - Producer-Consumer: 🔬 Researched
+  - CountDownLatch: 🔬 Researched
+  - ReentrantLock: 🔬 Researched
+  - Semaphore: 🔬 Researched
+  - Deadlock: 🔬 Researched
 - Spring Core
   - application context
   - beans
