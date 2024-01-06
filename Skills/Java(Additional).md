@@ -24,24 +24,24 @@
   - Semaphore: 🔬 Researched
   - Deadlock: 🔬 Researched
 - Spring Core
-  - application context: 🙋 Explained
+  - application context: 🖐️ Used
   - beans: 📢 Talked
   - inversion of control: 📢 Talked
   - dependency injection: 📢 Talked
-  - XML configuration: 🙋 Explained
-  - annotations configuration: 🙋 Explained
-  - code configuration: 🙋 Explained
+  - XML configuration: 🖐️ Used
+  - annotations configuration: 🖐️ Used
+  - code configuration: 🖐️ Used
   - spring annotations
-    - Autowired: 🙋 Explained
-    - Bean: 🙋 Explained
-    - Component: 🙋 Explained
-    - ComponentScan: 🙋 Explained
-    - Configuration: 🙋 Explained
-    - PostConstruct: 🙋 Explained
-    - PreDestroy: 🙋 Explained
-    - Qualifier: 🙋 Explained
-    - Scope: 🙋 Explained
-    - Value: 🙋 Explained
+    - Autowired: 🖐️ Used
+    - Bean: 🖐️ Used
+    - Component: 🖐️ Used
+    - ComponentScan: 🖐️ Used
+    - Configuration: 🖐️ Used
+    - PostConstruct: 🖐️ Used
+    - PreDestroy: 🖐️ Used
+    - Qualifier: 🖐️ Used
+    - Scope: 🖐️ Used
+    - Value: 🖐️ Used
 - Spring MVC
   - controller: 🚀 Constructed
   - CRUD: 🚀 Constructed
@@ -50,12 +50,12 @@
   - view: 🚀 Constructed
   - passing request parameters: 🚀 Constructed
 - Databases 
-  - SQL: 🙋 Explained
-  - JDBC API: 🙋 Explained
-  - JDBC template: 🙋 Explained
+  - SQL: 🖐️ Used
+  - JDBC API: 🖐️ Used
+  - JDBC template: 🖐️ Used
  - Web development basics
-   - HTTP & HTTPS: 🙋 Explained
-   - web app architecture: 🙋 Explained
+   - HTTP & HTTPS: 🖐️ Used
+   - web app architecture: 🔬 Researched
 - Other technologies
   - JPA: 📢 Talked
   - Hibernate: 📢 Talked
