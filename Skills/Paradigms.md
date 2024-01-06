@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - 🎓 Procedural programming 
-  - 🎓 Imperative programming
-  - 🎓 Structured programming
-  - 🎓 Non-structured programming
-  - 🎓 Functional programming
-  - 🎓 Prototype-based programming
-  - 🔬 Object-oriented programming
-  - 🔬 Object-based programming
-  - 🎓 Generic programming
-  - 🎓 Concurrent computing
-  - 🎓 Asyncronous programming
-  - 👂 Parallel programming
-  - 👂 Reactive programming
-  - 👂 FRP (Functional-reactive)
-  - 👂 Automata-based programming
-  - 👂 Domain-specific languages
-  - 🎓 Multi-paradigm programming
-  - 🎓 Metaprogramming
-  - 👂 Actor model
+  - Procedural programming: 🎓 Known
+  - Imperative programming: 🎓 Known
+  - Structured programming: 🎓 Known
+  - Non-structured programming: 🎓 Known
+  - Functional programming: 🎓 Known
+  - Prototype-based programming: 🎓 Known
+  - Object-oriented programming: 🔬 Researched
+  - Object-based programming: 🔬 Researched
+  - Generic programming: 🎓 Known
+  - Concurrent computing: 🎓 Known
+  - Asyncronous programming: 🎓 Known
+  - Parallel programming: 👂 Heard
+  - Reactive programming: 👂 Heard
+  - FRP (Functional-reactive): 👂 Heard
+  - Automata-based programming: 👂 Heard
+  - Domain-specific languages: 👂 Heard
+  - Multi-paradigm programming: 🎓 Known
+  - Metaprogramming: 🎓 Known
+  - Actor model: 👂 Heard
 - OOP basics
-  - 🚀 constructor
-  - 🚀 new
-  - 🚀 Static method
-  - 🚀 Method
-  - 🎓 Async method
-  - 🚀 Getters, Setters
-  - 🚀 Public fields
-  - 🚀 Private fields
-  - 🚀 Field declarations
-  - 🚀 Inheritance
-  - 🚀 Parent class
-  - 🚀 Polymorphism
-  - 🚀 Abstract class
-  - 🚀 Interface
-  - 🚀 Encapsulation
-  - 🔬 Hidden class
-  - 🚀 Object form
-  - 🚀 instance
-  - 🚀 Introspection
-  - 🚀 Reflection
+  - Constructor: 🚀 Constructed
+  - new: 🚀 Constructed
+  - Static method: 🚀 Constructed
+  - Method: 🚀 Constructed
+  - Async method: 🎓 Known
+  - Getters, Setters: 🚀 Constructed
+  - Public fields: 🚀 Constructed
+  - Private fields: 🚀 Constructed
+  - Field declarations: 🚀 Constructed
+  - Inheritance: 🚀 Constructed
+  - Parent class: 🚀 Constructed
+  - Polymorphism: 🚀 Constructed
+  - Abstract class: 🚀 Constructed
+  - Interface: 🚀 Constructed
+  - Encapsulation: 🚀 Constructed
+  - Hidden class: 🔬 Researched
+  - Object form: 🚀 Constructed
+  - Instance: 🚀 Constructed
+  - Introspection: 🚀 Constructed
+  - Reflection: 🚀 Constructed
 - Patterns
-  - 🚀 Singleton
-  - 🚀 Factory Method
-  - 🚀 Abstract Factory
-  - 👂 Adapter
-  - 👂 Observer
-  - 👂 Strategy
-  - 👂 Facade
-  - 👂 Proxy
-  - 👂 Chain of Responsibility
-  - 🖐️ Command
-  - 👂 Iterator
-  - 👂 State
-  - 👂 Bridge
-  - 👂 Builder
-  - 👂 Prototype
-  - 👂 Composite
-  - 👂 Decorator
-  - 👂 Flyweight
-  - 👂 Mediator
-  - 👂 Memento
-  - 👂 Template Method
-  - 👂 Visitor
+  - Singleton: 🚀 Constructed
+  - Factory Method: 🚀 Constructed
+  - Abstract Factory: 🚀 Constructed
+  - Adapter: 👂 Heard
+  - Observer: 👂 Heard
+  - Strategy: 👂 Heard
+  - Facade: 👂 Heard
+  - Proxy: 👂 Heard
+  - Chain of Responsibility: 👂 Heard
+  - Command: 🖐️ Used
+  - Iterator: 👂 Heard
+  - State: 👂 Heard
+  - Bridge: 👂 Heard
+  - Builder: 👂 Heard
+  - Prototype: 👂 Heard
+  - Composite: 👂 Heard
+  - Decorator: 👂 Heard
+  - Flyweight: 👂 Heard
+  - Mediator: 👂 Heard
+  - Memento: 👂 Heard
+  - Template Method: 👂 Heard
+  - Visitor: 👂 Heard
